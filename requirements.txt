@@ -1,0 +1,4 @@
+fpdf
+qrcode
+tkinter
+sqlite3
